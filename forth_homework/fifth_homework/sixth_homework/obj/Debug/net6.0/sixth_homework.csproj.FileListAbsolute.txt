@@ -1,0 +1,15 @@
+C:\Users\79038\Desktop\homework C#\homework\forth_homework\fifth_homework\sixth_homework\bin\Debug\net6.0\sixth_homework.exe
+C:\Users\79038\Desktop\homework C#\homework\forth_homework\fifth_homework\sixth_homework\bin\Debug\net6.0\sixth_homework.deps.json
+C:\Users\79038\Desktop\homework C#\homework\forth_homework\fifth_homework\sixth_homework\bin\Debug\net6.0\sixth_homework.runtimeconfig.json
+C:\Users\79038\Desktop\homework C#\homework\forth_homework\fifth_homework\sixth_homework\bin\Debug\net6.0\sixth_homework.dll
+C:\Users\79038\Desktop\homework C#\homework\forth_homework\fifth_homework\sixth_homework\bin\Debug\net6.0\sixth_homework.pdb
+C:\Users\79038\Desktop\homework C#\homework\forth_homework\fifth_homework\sixth_homework\obj\Debug\net6.0\sixth_homework.csproj.AssemblyReference.cache
+C:\Users\79038\Desktop\homework C#\homework\forth_homework\fifth_homework\sixth_homework\obj\Debug\net6.0\sixth_homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79038\Desktop\homework C#\homework\forth_homework\fifth_homework\sixth_homework\obj\Debug\net6.0\sixth_homework.AssemblyInfoInputs.cache
+C:\Users\79038\Desktop\homework C#\homework\forth_homework\fifth_homework\sixth_homework\obj\Debug\net6.0\sixth_homework.AssemblyInfo.cs
+C:\Users\79038\Desktop\homework C#\homework\forth_homework\fifth_homework\sixth_homework\obj\Debug\net6.0\sixth_homework.csproj.CoreCompileInputs.cache
+C:\Users\79038\Desktop\homework C#\homework\forth_homework\fifth_homework\sixth_homework\obj\Debug\net6.0\sixth_homework.dll
+C:\Users\79038\Desktop\homework C#\homework\forth_homework\fifth_homework\sixth_homework\obj\Debug\net6.0\refint\sixth_homework.dll
+C:\Users\79038\Desktop\homework C#\homework\forth_homework\fifth_homework\sixth_homework\obj\Debug\net6.0\sixth_homework.pdb
+C:\Users\79038\Desktop\homework C#\homework\forth_homework\fifth_homework\sixth_homework\obj\Debug\net6.0\sixth_homework.genruntimeconfig.cache
+C:\Users\79038\Desktop\homework C#\homework\forth_homework\fifth_homework\sixth_homework\obj\Debug\net6.0\ref\sixth_homework.dll
