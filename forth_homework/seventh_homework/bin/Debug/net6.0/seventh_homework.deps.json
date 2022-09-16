@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "seventh_homework/1.0.0": {
+        "runtime": {
+          "seventh_homework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "seventh_homework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
